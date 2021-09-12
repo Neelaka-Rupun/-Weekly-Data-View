@@ -1,0 +1,12 @@
+.percentage__container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.percentage__options {
+  /* width: 200;
+  height: 200; */
+}
+.percentage__paper {
+  padding: 10px;
+}
