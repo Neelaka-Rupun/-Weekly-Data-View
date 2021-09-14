@@ -1,12 +1,20 @@
-.percentage__container {
+.process__container {
   display: flex;
   justify-content: space-evenly;
 }
-
-.percentage__options {
-  /* width: 200;
-  height: 200; */
+.process__inner {
+  margin-right: 10px;
 }
-.percentage__paper {
+
+.process__singleProcess {
+  height: 200;
+  width: 200;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.process__topic {
+  display: flex;
+  justify-content: space-evenly;
   padding: 10px;
 }
